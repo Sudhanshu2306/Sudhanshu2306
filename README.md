@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sudhanshu Raj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="loop" width="350" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif">
+<img align="right" alt="loop" width="350" height="300" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanshu2306&label=Profile%20views&color=0e75b6&style=flat" alt="sudhanshu2306" /> </p>
 
